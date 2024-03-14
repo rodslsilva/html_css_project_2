@@ -1,0 +1,327 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: left;
+    background-color: black;
+}
+
+.img{
+    height: 5vh;
+    width: 5vw;
+    padding: 10px;
+}
+
+.ul{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+   
+}
+
+.lista1{
+    list-style: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: orange;
+}
+
+.header{
+    background-image: url(../img/cs1.jpg);
+    height: 100vh;
+}
+
+.h1{
+    color: orange;
+    display: flex;
+    justify-content: left;
+    padding-top: 40vh;
+    padding-left: 20%;
+    font-size: 100px;
+    text-shadow: 8px 8px 5px rgb(243, 133, 133)
+}
+
+.h2{
+    color: orange;
+    display: flex;
+    justify-content: left;
+    padding-left: 25%;
+    font-size: 80px;
+    text-shadow: 8px 8px 5px rgb(243, 133, 133)
+}
+
+.section1{
+    background-color: black;
+}
+
+.h3{
+    color: orange;
+    padding-left: 2%;
+    font-size: 40px;
+    padding-top: 2%;
+}
+
+.p1{
+    color: orange;
+    padding-left: 2%;
+    padding-top: 1%;
+    text-align: justify;
+    line-height: 1.5;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    font-size: 20px;
+}
+
+.figure1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+    background-image: url(../img/cs2.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    
+}
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img2{
+    background-image: url(../img/itachi4.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.img3{
+    background-image: url(../img/joker1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.img4{
+    background-image: url(../img/itachi2.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section2{
+    padding: 5%;
+    background-color: black;
+}
+
+.img5{
+    background-image: url(../img/itchai3.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img6{
+    background-image: url(../img/batman1.jfif);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img7{
+    background-image: url(../img/fnx1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img8{
+    background-image: url(../img/macaco1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img9{
+    background-image: url(../img/oni1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img10{
+    background-image: url(../img/oni2.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img11{
+    background-image: url(../img/stf1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img12{
+    background-image: url(../img/xadrez1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img13{
+    background-image: url(../img/Sharingan-HD-Wallpaper.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img14{
+    background-image: url(../img/yamcha-1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img15{
+    background-image: url(../img/vegeta-1.jpg);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img16{
+    background-image: url(../img/batman1.jfif);
+    background-size: cover;
+    height: 20vh;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h5{
+    color: orange;
+    padding-left: 2%;
+    font-size: 40px;
+    padding-top: 2%;
+    display: flex;
+    padding-left: 30%;
+    padding-bottom: 10%;
+}
+
+.p2{
+    color: orange;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn{
+    background-color: orange;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 25px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 32%;
+    margin-top: 10%;
+    padding: 10px;
+    border-radius: 15%;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+.section3{
+    padding: 5%;
+    background-color: rgb(80, 76, 68);
+}
